@@ -1,0 +1,2 @@
+module gitbash_project {
+}
